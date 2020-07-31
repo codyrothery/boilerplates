@@ -7,6 +7,7 @@ HTML Boilerplate:
 - Charset = UTF-8
 - Responsive viewport
 - IE/Edge compatibility
+- Stylesheet link
 - Title
 - Description
 
