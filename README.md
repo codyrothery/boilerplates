@@ -12,6 +12,7 @@ HTML Boilerplate:
 - Description
 
 CSS Boilerplate:
+html {height: 100%}
 - * {margin: 0 auto;}
 
 A11Y:
