@@ -7,7 +7,8 @@ HTML Boilerplate:
 - Charset = UTF-8
 - Responsive viewport
 - IE/Edge compatibility
-- Stylesheet link
+- CSS Reset file
+- CSS Stylesheet link
 - Title
 - Description
 
