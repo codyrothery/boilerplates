@@ -14,7 +14,7 @@ HTML Boilerplate:
 CSS RESET 
 
 - Eric Meyer
-- Normalize
+- Normalize - adds consistency across browsers
 
 
 A11Y:
