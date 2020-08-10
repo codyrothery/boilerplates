@@ -11,9 +11,11 @@ HTML Boilerplate:
 - Title
 - Description
 
-CSS Boilerplate:
-html {height: 100%}
-- * {margin: 0 auto;}
+CSS RESET 
+
+- Eric Meyer
+- Normalize
+
 
 A11Y:
 - currently using Axe chrome extension for browser-side testing for accessibility
